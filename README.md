@@ -1,5 +1,6 @@
 # SampleLambdaServerlessService
-Sample Lambda Serverless Service with DotNet Core
+Sample Lambda Serverless Service with DotNet Core 3.1
+
 Hi,
 
 I developed this project with DOTNET CORE 3.1 and AWS Lambda. 
